@@ -66,6 +66,11 @@
 - [Matching the Clang AST](http://clang.llvm.org/docs/LibASTMatchers.html) - how to use Clang’s LibASTMatchers to match interesting nodes of the AST and execute code that uses the matched nodes.
 - [AST Matcher Reference](http://clang.llvm.org/docs/LibASTMatchersReference.html) - AST matchers implemented by Clang.
 
+## Videos
+
+- [Create your own Refactoring Tool in Clang](https://www.youtube.com/watch?v=8PndHo7jjHk) - Richard Thompson's presentation from C++Now 2014.
+- [Refactoring C++ with Clang](https://www.youtube.com/watch?v=yuIOGfcOH0k) - Chandler Carruth's talk from C++Now 2012.
+
 ## Tips
 
 Contributions welcome :)
