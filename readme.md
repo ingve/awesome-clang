@@ -30,6 +30,7 @@
 - [scan-build](http://clang-analyzer.llvm.org/scan-build.html) -Running the analyzer from the command line.
 - [Static Analysis with clang](http://btorpey.github.io/blog/2015/04/27/static-analysis-with-clang/)
 - [CodeChecker](https://github.com/Ericsson/codechecker) - defect database and viewer extension for Clang Static Analyzer.
+- [clang-analyzer-guide](https://github.com/haoNoQ/clang-analyzer-guide) An easy guide to Clang Static Analyzer extension.
 
 ### AddressSanitizer
 
