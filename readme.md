@@ -62,6 +62,7 @@
 
 ### Important Clang concepts
 
+- [Quick overview of how Clang works internally](http://cppdepend.com/blog/?p=321)
 - [Getting Started with LLVM Core Libraries](https://www.packtpub.com/application-development/getting-started-llvm-core-libraries) - PacktPub books can be a bit hit and miss, but this one is excellent. (A [PDF with updates for Clang 3.5](https://www.packtpub.com/sites/default/files/downloads/6924OS_Appendix.pdf) is available for free download).
 - [Introduction to the Clang AST](http://clang.llvm.org/docs/IntroductionToTheClangAST.html) - a gentle introduction to the mysteries of the Clang AST.
 - [Matching the Clang AST](http://clang.llvm.org/docs/LibASTMatchers.html) - how to use Clang’s LibASTMatchers to match interesting nodes of the AST and execute code that uses the matched nodes.
