@@ -22,8 +22,6 @@
 
 - [pp-trace](http://clang.llvm.org/extra/pp-trace.html) - tool that traces preprocessor activity.
 
-
-
 ### Clang static analyzer
 
 - [Clang Static Analyzer](http://clang-analyzer.llvm.org/index.html) - a source code analysis tool that finds bugs in C, C++, and Objective-C programs.
@@ -50,6 +48,7 @@
 - [irony-mode](https://github.com/Sarcasm/irony-mode) - A C/C++ minor mode for Emacs powered by libclang.
 - [c99-to-c89](https://github.com/libav/c99-to-c89/) - Tool to convert C99 code to MSVC-compatible C89.
 - [ClangKit](https://github.com/macmade/ClangKit) - Objective-C frontend to LibClang.
+- [Skipping library code in gdb with help from libClang](https://jefftrull.github.io/c++/gdb/python/libclang/llvm/2018/04/30/stepping-with-libclang.html) - using libClang’s Python bindings.
 
 ### LibTooling
 
@@ -67,11 +66,13 @@
 - [Introduction to the Clang AST](http://clang.llvm.org/docs/IntroductionToTheClangAST.html) - a gentle introduction to the mysteries of the Clang AST.
 - [Matching the Clang AST](http://clang.llvm.org/docs/LibASTMatchers.html) - how to use Clang’s LibASTMatchers to match interesting nodes of the AST and execute code that uses the matched nodes.
 - [AST Matcher Reference](http://clang.llvm.org/docs/LibASTMatchersReference.html) - AST matchers implemented by Clang.
+- [How to build LLVM from source](https://quuxplusone.github.io/blog/2018/04/16/building-llvm-from-source/) - Step-by step, using the GitHub mirror
 
 ## Videos
 
 - [Create your own Refactoring Tool in Clang](https://www.youtube.com/watch?v=8PndHo7jjHk) - Richard Thompson's presentation from C++Now 2014.
 - [Refactoring C++ with Clang](https://www.youtube.com/watch?v=yuIOGfcOH0k) - Chandler Carruth's talk from C++Now 2012.
+- [Automatic C++ source code generation with clang](https://www.youtube.com/watch?v=aPTyatTI42k) - Sergei Sadovnikov's ACCU 2017 talk.
 
 ## Tips
 
