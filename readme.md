@@ -35,6 +35,10 @@
 - [AddressSanitizer](https://clang.llvm.org/docs/AddressSanitizer.html) - a fast memory error detector.
 - [Address Sanitizer](https://www.mikeash.com/pyblog/friday-qa-2015-07-03-address-sanitizer.html) - overview by Mike Ash.
 
+### Other Clang-based tools
+
+- [C++ Insights](https://github.com/andreasfertig/cppinsights) - a clang-based tool which does source to source transformation. Its goal is it to make things visible which normally, and intentionally, happen behind the scenes. [Live/online demo](https://cppinsights.io/) available
+
 ## Libraries
 
 ### LibClang
