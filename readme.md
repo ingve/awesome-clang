@@ -63,6 +63,7 @@
 - [AST matchers and Clang refactoring tools](https://eli.thegreenplace.net/2014/07/29/ast-matchers-and-clang-refactoring-tools)
 - [Compilation databases for Clang-based tools](https://eli.thegreenplace.net/2014/05/21/compilation-databases-for-clang-based-tools)
 - [LibTooling Example](https://kevinaboos.wordpress.com/2013/07/23/clang-tutorial-part-ii-libtooling-example/)
+- [Lecture slides and code examples for the Clang libraries](https://github.com/mdadams/clang_libraries_companion)
 
 ### Important Clang concepts
 
